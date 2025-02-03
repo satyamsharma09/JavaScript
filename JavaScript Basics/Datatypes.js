@@ -5,3 +5,7 @@
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
 console.log(1)
+
+const MyFunction = function(){
+    console.log("Hello")
+}

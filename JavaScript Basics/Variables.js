@@ -4,7 +4,7 @@ var Account_password = "1234"
 Account_city = "Jaipur"
 let Account_state;
 
-Account_email = "Anushka@gmail.com"
+Account_email = "Somya@gmail.com"
 
 console.log(Account_email)
 

@@ -15,7 +15,16 @@ let friend2= "Piyush"
 
 console.log(friend1 +" and "+ friend2 + " are both friends.")
 
-console.log(++value)
-console.log(value++)
-console.log(+true)
-console.log(+"")
+console.log(++value);
+console.log(value++);
+console.log(+true);
+console.log(+"");
+
+let num1, num2, num3 
+num1 = num2 = num3 = 2+2
+console.log(num1+num2+num3)
+
+
+let GameCounter = 2
+GameCounter++;
+console.log(GameCounter);
